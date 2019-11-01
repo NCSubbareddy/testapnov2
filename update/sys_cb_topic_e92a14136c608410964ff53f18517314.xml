@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="INSERT_OR_UPDATE">
+        <applicability/>
+        <category/>
+        <connect_queue/>
+        <description/>
+        <flexible_conversation_switching>false</flexible_conversation_switching>
+        <graph/>
+        <key_phrases/>
+        <live_agent>false</live_agent>
+        <name>T1</name>
+        <nlu_intent/>
+        <nlu_model/>
+        <nlu_provider/>
+        <roles/>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-22 11:44:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>e92a14136c608410964ff53f18517314</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>T1</sys_name>
+        <sys_package display_value="devi2" source="x_nutr_devi2">6c3704176c208410964ff53f185173af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="devi2">6c3704176c208410964ff53f185173af</sys_scope>
+        <sys_update_name>sys_cb_topic_e92a14136c608410964ff53f18517314</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-22 11:44:24</sys_updated_on>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="delete_multiple" query="document_key=e92a14136c608410964ff53f18517314"/>
+</record_update>

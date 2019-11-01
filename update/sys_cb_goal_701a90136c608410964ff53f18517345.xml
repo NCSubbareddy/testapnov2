@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_goal">
+    <sys_cb_goal action="INSERT_OR_UPDATE">
+        <advanced>true</advanced>
+        <applicability/>
+        <applicability_type>primary</applicability_type>
+        <confirmation_msg/>
+        <description/>
+        <greeting_msg/>
+        <key_phrases/>
+        <name>TG</name>
+        <open_action>118a4e27b33b3200f7d1a13816a8dc50</open_action>
+        <record_applicability/>
+        <record_table/>
+        <scripted_applicability><![CDATA[// Hi 1123]]></scripted_applicability>
+        <scripted_confirmation><![CDATA[// hi21]]></scripted_confirmation>
+        <scripted_greeting><![CDATA[// hi12]]></scripted_greeting>
+        <sys_class_name>sys_cb_goal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-22 11:44:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>701a90136c608410964ff53f18517345</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>TG</sys_name>
+        <sys_package display_value="devi2" source="x_nutr_devi2">6c3704176c208410964ff53f185173af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="devi2">6c3704176c208410964ff53f185173af</sys_scope>
+        <sys_update_name>sys_cb_goal_701a90136c608410964ff53f18517345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-22 11:46:23</sys_updated_on>
+        <timer/>
+        <topic display_value="T1">e92a14136c608410964ff53f18517314</topic>
+        <type>consumer_to_system</type>
+        <variable_table>var__m_topic_variable_e92a14136c608410964ff53f18517314</variable_table>
+    </sys_cb_goal>
+    <sys_element_mapping action="delete_multiple" query="id=701a90136c608410964ff53f18517345"/>
+</record_update>

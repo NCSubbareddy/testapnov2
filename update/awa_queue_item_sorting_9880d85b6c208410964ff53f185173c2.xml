@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="awa_queue_item_sorting">
+    <awa_queue_item_sorting action="INSERT_OR_UPDATE">
+        <field>sys_created_on</field>
+        <order>1000</order>
+        <queue display_value="Hello">0070d85b6c208410964ff53f185173b8</queue>
+        <sort_direction>ascending</sort_direction>
+        <sys_class_name>awa_queue_item_sorting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-22 11:02:13</sys_created_on>
+        <sys_id>9880d85b6c208410964ff53f185173c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_created_on</sys_name>
+        <sys_package display_value="devi2" source="x_nutr_devi2">6c3704176c208410964ff53f185173af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="devi2">6c3704176c208410964ff53f185173af</sys_scope>
+        <sys_update_name>awa_queue_item_sorting_9880d85b6c208410964ff53f185173c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-22 11:02:13</sys_updated_on>
+    </awa_queue_item_sorting>
+</record_update>
